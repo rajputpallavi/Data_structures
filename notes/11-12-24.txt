@@ -1,0 +1,10 @@
+Use Big O notation to express the time complexity.
+Big O notation gives an upper bound on the number of operations performed.
+
+Common time complexities include:
+O(1) - constant time complexity
+O(log n) - logarithmic time complexity
+O(n) - linear time complexity
+O(n log n) - linearithmic time complexity
+O(n^2) - quadratic time complexity
+O(2^n) - exponential time complexity
